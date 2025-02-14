@@ -92,3 +92,7 @@ Yeswanth Soma
 
 - Inspired by the need for simple code metrics in Python projects
 - Thanks to all contributors and users of this tool
+
+## Copryrights
+
+All Copyrights Reserved

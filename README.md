@@ -95,4 +95,4 @@ Yeswanth Soma
 
 ## Copryrights
 
-All Copyrights Reserved
+All Copyrights Reserved @Yeswanth Soma

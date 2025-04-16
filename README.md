@@ -36,7 +36,7 @@ python main.py /path/to/your/python/project
 ### Example Output
 
 ```
-File: /path/to//project/example.py
+File: /path/to/yesh2344/project/example.py
   Total Lines   : 100
   Code Lines    : 75
   Comment Lines : 15

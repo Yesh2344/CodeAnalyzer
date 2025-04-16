@@ -19,7 +19,7 @@ A command-line tool that analyzes Python source code files in a directory and pr
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/python-metrics-analyzer.git
+git clone https://github.com//python-metrics-analyzer.git
 cd python-metrics-analyzer
 ```
 

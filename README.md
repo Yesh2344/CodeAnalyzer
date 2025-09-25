@@ -1,6 +1,5 @@
 # Python Code Metrics Analyzer
 
-A command-line tool that analyzes Python source code files in a directory and provides detailed metrics about code composition, including counts of total lines, code lines, comments, and blank lines.
 
 ## Features
 
